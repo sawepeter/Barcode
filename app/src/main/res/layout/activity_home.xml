@@ -4,9 +4,36 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#dcdcdc"
     tools:context="com.sawepeter.barcode.home">
-    
 
+
+    <Button
+        android:id="@+id/buttonScanCode"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginBottom="149dp"
+        android:layout_marginEnd="135dp"
+        android:fontFamily="monospace"
+        android:onClick="scanCode"
+        android:text="@string/app_btn"
+        android:gravity="center"
+        android:textSize="30sp" />
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="monospace"
+        android:layout_marginBottom="155dp"
+        android:text="@string/app_code"
+        android:textSize="20sp"
+        android:textColor="#000"
+        android:layout_above="@+id/buttonScanCode"
+        android:layout_centerHorizontal="true" />
 
 
 </RelativeLayout>

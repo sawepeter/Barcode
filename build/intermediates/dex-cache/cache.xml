@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\SAWE PETER\.gradle\caches\modules-2\files-2.1\com.google.zxing\core\3.2.1\2287494d4f5f9f3a9a2bb6980e3f32053721b315\core-3.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="2287494d4f5f9f3a9a2bb6980e3f32053721b315">
+        <dex dex="C:\Users\SAWE PETER\AndroidStudioProjects\Barcode\app\build\intermediates\pre-dexed\debug\core-3.2.1_f6f9ac5311ebe72c044a8395fcc2306f1b5efa70.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SAWE PETER\.android\build-cache\1c0e086ca407a8193616791b247fbc80f726f257\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="760ff0a866a9b3b7fe4a91cfe6439d9dc93cea7c">
+        <dex dex="C:\Users\SAWE PETER\AndroidStudioProjects\Barcode\app\build\intermediates\pre-dexed\debug\classes_527c8f20e885c3c8a403e141643bad1c0aee5115.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SAWE PETER\.android\build-cache\25b92937ee0ec93f7705c801051b7c3a00aef7bd\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="ceda0650ec225b9c0143ed8ff1c010d4e621a423">
+        <dex dex="C:\Users\SAWE PETER\AndroidStudioProjects\Barcode\app\build\intermediates\pre-dexed\debug\classes_44f66b80fb9a17a3dd307144e9fd4723bd8e2bb0.jar" />
+    </item>
+
+</items>

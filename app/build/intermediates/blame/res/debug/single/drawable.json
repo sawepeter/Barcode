@@ -92,6 +92,10 @@
         "source": "C:\\Users\\SAWE PETER\\.android\\build-cache\\a2fb50b6fc9f10ca5ce42085fb0f826f8cf588de\\output\\res\\drawable\\abc_ic_clear_material.xml"
     },
     {
+        "merged": "C:\\Users\\SAWE PETER\\AndroidStudioProjects\\Barcode\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\splash.PNG",
+        "source": "C:\\Users\\SAWE PETER\\AndroidStudioProjects\\Barcode\\app\\src\\main\\res\\drawable\\splash.PNG"
+    },
+    {
         "merged": "C:\\Users\\SAWE PETER\\AndroidStudioProjects\\Barcode\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
         "source": "C:\\Users\\SAWE PETER\\.android\\build-cache\\a2fb50b6fc9f10ca5ce42085fb0f826f8cf588de\\output\\res\\drawable\\abc_dialog_material_background.xml"
     },

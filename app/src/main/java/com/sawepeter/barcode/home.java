@@ -28,19 +28,19 @@ public class home extends AppCompatActivity {
 
         setContentView(scannerView);
         scannerView.startCamera();
-
     }
-    public void onPause(){
+    @Override
+    public void onPause() {
         super.onPause();
         scannerView.stopCamera();
     }
-    class ZXingScannerResultHandler implements ZXingScannerView.ResultHandler{
+    class ZXingScannerResultHandler implements ZXingScannerView.ResultHandler
+    {
 
         @Override
         public void handleResult(Result result) {
             String resultCode = result.getText();
-            Toast.makeText(home.this, resultCode, Toast.LENGTH_SHORT).show();
-            //textView.setText(resultCode);
+            Toast.makeText(home.this, resultCode, Toast.LENGTH_LONG).show();
 
 
 

@@ -1,4 +1,4 @@
-#Sun Mar 18 10:50:35 EAT 2018
+#Sun Mar 18 11:51:40 EAT 2018
 base.0=C\:\\Users\\SAWE PETER\\AndroidStudioProjects\\Barcode\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
 renamed.0=classes.dex
 file.0=C\:\\Users\\SAWE PETER\\AndroidStudioProjects\\Barcode\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex

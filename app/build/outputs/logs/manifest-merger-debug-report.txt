@@ -1,6 +1,6 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\SAWE PETER\AndroidStudioProjects\Barcode\app\src\main\AndroidManifest.xml:2:1-29:12
+ADDED from C:\Users\SAWE PETER\AndroidStudioProjects\Barcode\app\src\main\AndroidManifest.xml:2:1-22:12
 	package
 		ADDED from C:\Users\SAWE PETER\AndroidStudioProjects\Barcode\app\src\main\AndroidManifest.xml:3:5-36
 		INJECTED from C:\Users\SAWE PETER\AndroidStudioProjects\Barcode\app\src\main\AndroidManifest.xml
@@ -18,7 +18,7 @@ ADDED from C:\Users\SAWE PETER\AndroidStudioProjects\Barcode\app\src\main\Androi
 	android:name
 		ADDED from C:\Users\SAWE PETER\AndroidStudioProjects\Barcode\app\src\main\AndroidManifest.xml:5:22-62
 application
-ADDED from C:\Users\SAWE PETER\AndroidStudioProjects\Barcode\app\src\main\AndroidManifest.xml:7:5-27:19
+ADDED from C:\Users\SAWE PETER\AndroidStudioProjects\Barcode\app\src\main\AndroidManifest.xml:7:5-20:19
 MERGED from [com.android.support:appcompat-v7:24.2.1] C:\Users\SAWE PETER\.android\build-cache\a2fb50b6fc9f10ca5ce42085fb0f826f8cf588de\output\AndroidManifest.xml:25:5-20
 MERGED from [com.android.support:animated-vector-drawable:24.2.1] C:\Users\SAWE PETER\.android\build-cache\d273cc4881e7e2f400537b068f577ebc577725b6\output\AndroidManifest.xml:22:5-20
 MERGED from [com.android.support:support-vector-drawable:24.2.1] C:\Users\SAWE PETER\.android\build-cache\9aa9f882ee5f4fe9ef25e90ce184726b49694129\output\AndroidManifest.xml:23:5-20
@@ -55,10 +55,6 @@ category#android.intent.category.LAUNCHER
 ADDED from C:\Users\SAWE PETER\AndroidStudioProjects\Barcode\app\src\main\AndroidManifest.xml:17:17-77
 	android:name
 		ADDED from C:\Users\SAWE PETER\AndroidStudioProjects\Barcode\app\src\main\AndroidManifest.xml:17:27-74
-activity#com.sawepeter.barcode.splash
-ADDED from C:\Users\SAWE PETER\AndroidStudioProjects\Barcode\app\src\main\AndroidManifest.xml:20:9-26:20
-	android:name
-		ADDED from C:\Users\SAWE PETER\AndroidStudioProjects\Barcode\app\src\main\AndroidManifest.xml:20:19-41
 uses-sdk
 INJECTED from C:\Users\SAWE PETER\AndroidStudioProjects\Barcode\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 MERGED from [com.android.support:appcompat-v7:24.2.1] C:\Users\SAWE PETER\.android\build-cache\a2fb50b6fc9f10ca5ce42085fb0f826f8cf588de\output\AndroidManifest.xml:21:5-23:78
